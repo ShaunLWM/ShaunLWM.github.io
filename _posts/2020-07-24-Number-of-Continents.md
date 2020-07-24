@@ -17,15 +17,15 @@ They are (in descending size):
 - Europe
 - Oceania/Australia
 
-But the fact is that no one knows what a continent is and isn't. The usual definition of Continents is:
+But the fact is that no one knows what a continent is and isn't. The definition of Continents is:
 
 > Large landmasses separated from others by ocean
 
-For example: Europe and Asia are not separated by any ocean, thus sometimes called Eurasia. Moreover, they are called a continent each on their own due to their huge cultural differences, which contradicts the definition.
+For example: Europe and Asia are not separated by any ocean, thus is sometimes called Eurasia. Moreover, they are called a continent each on their own, due to their huge cultural differences. And consequently, contradicting the definition.
 
-At the end of the day, we will never stop drawing a line on what defines a continent, resulting in different counts of continents, taught by different teachers in different countries.
+At the end of the day, we will never stop drawing a line on what defines a continent. This resulted in a different count of continents, taught by different teachers all over the world.
 
-The 7 listed above is good enough for your day-to-day interactions.
+But fret not, the 7 listed above is good enough for your day-to-day interactions.
 
 ## Fun fact:
 
