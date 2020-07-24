@@ -7,6 +7,8 @@ There are 7 continents in the world. Or at least what most of us were taught.
 
 ![_config.yml]({{ site.baseurl }}/images/2020-07-24-Number-of-Continents-1.png)
 
+<small>https://www.countries-ofthe-world.com/continents-of-the-world.html</small>
+
 They are (in descending size):
 
 - Asia
