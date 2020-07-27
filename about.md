@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just a blog where I write about new things that I'd learn everyday.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+<sub>I do not take credits for any media linked on the blog.</sub>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contact@shaunlwm.me](mailto:contact@shaunlwm.me)
