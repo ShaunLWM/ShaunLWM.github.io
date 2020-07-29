@@ -5,13 +5,13 @@ title: Atomic Clock
 
 If you think that the clock in your smartphone or your grandparent's clock is accurate, think again.
 
-There exist a type of clock called the Atomic Clock, which are amongst the most accurate timekeeping devices in history. These clocks are scattered all over the world to keep track of the current time down to the seconds, with just an error of only 1 second in up to 100 million years.
+There exist a type of clock called the Atomic Clock, which is amongst the most accurate timekeeping devices in history. These clocks are scattered all over the world to keep track of the current time down to the seconds, with just an error of only 1 second in up to 100 million years.
 
-Physicists knew that atom oscillates at very high and very specific rate, similar to the atom of the same element - the Caesium-133 atom. With environmental factors affecting pendulums [1] and manufacturing errors, atom seemed to be the perfect solution to time keeping. In 1967, the standards defined a second as 9,192,631,770 oscillations of the Caesium-133 atom - at a temperature of 0 Kelvin at rest.
+Physicists knew that atom oscillates at a very high and very specific rate, similar to the atom of the same element - the Caesium-133 atom. With environmental factors affecting pendulums [1] and manufacturing errors, atom seemed to be the perfect solution to timekeeping. In 1967, the standards defined a second as 9,192,631,770 oscillations of the Caesium-133 atom - at a temperature of 0 Kelvin at rest.
 
-Basically, when the atom is tuned to a certain frequency (imagine an Opera singer singing at a high pitch to a wine glass), it changes to a higher energy state after absorbing some of the energy. Using this method, the atoms are passed through a detector where they are supposed to stay at the given frequency. If the frenquency changes, few detections will be made at the detector, which allows the detector to send a jolt of electricity to the quartz ocsillator to alter the frequency back to the optimal state again. This result in the caesium atom resonating again; just like tuning a radio.
+Basically, when the atom is tuned to a certain frequency (imagine an Opera singer singing at a high pitch to a wine glass), it changes to a higher energy state after absorbing some of the energy. Using this method, the atoms are passed through a detector where they are supposed to stay at the given frequency. If the frequency changes, few detections will be made at the detector, which allows the detector to send a jolt of electricity to the quartz oscillator to alter the frequency back to the optimal state again. This results in the Caesium atom resonating again; just like tuning a radio.
 
-In even simpler terms - the electric zap to the quartz in the Atomic Clock keeps the osciallation going at a certain frequency by allowing the Cesium atoms to keep the oscillations at the peak frequency.
+In even simpler terms - the electric zap to the quartz in the Atomic Clock keeps the oscillation going at a certain frequency by allowing the Cesium atoms to keep the oscillations at the peak frequency.
 
 ![_config.yml]({{ site.baseurl }}/images/2020-07-29-Atomic-Clock_1.png)
 
