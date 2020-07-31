@@ -3,15 +3,15 @@ layout: post
 title: Biography vs Autobiography vs Memoirs
 ---
 
-These 3 primary formats are used to tell a life story of a certiain person - Biography, Autobiography and Memoirs. However, the usage of these 3 words can be a little taunting as they all share several similarities. We do see them in book stores, in movies etc, but what exactly do these terms mean?
+These 3 primary formats are used to tell the life story of a certain person - Biography, Autobiography, and Memoirs. However, the usage of these 3 words can be a little daunting as they all share several similarities. We do see them in book stores, in movies, etc. but what exactly do these terms mean?
 
 ---
 
 ## Biography
 
-TLDR: Life history of an individual, written by someone else.
+TLDR: The life history of an individual, written by someone else.
 
-A Biography (aka bio.) is a non-fiction piece of work which accounts for a person's life, written by someone else. It can include several pieces of information (most probably in a chronological order), which can include their birthplace, education, relations and many others. These information are normally retrieved via interviews, letters, diaries, photographs, essays, reference books, and newspapers.
+A Biography (aka bio.) is a non-fiction piece of work that accounts for a person's life, written by someone else. It can include several pieces of information (most probably in chronological order), which can include their birthplace, education, relations, and many others. This information are normally retrieved via interviews, letters, diaries, photographs, essays, reference books, and newspapers.
 
 Examples:
 
@@ -25,9 +25,9 @@ Examples:
 
 TLDR: Story of a person's life, written by the person him/herself.
 
-An Autobiography is the story of the particular person, written by that person. As a result, these autobiographies are normally in first person point of view. The main focus of an autobiography is to portray the life experiences and achievements of the author, thus, normally written in the later stage of the person's life.
+An Autobiography is the story of a particular person, written by that person. As a result, these autobiographies are normally in a first-person point of view. The main focus of an autobiography is to portray the life experiences and achievements of the author, thus, normally written in the later stage of the person's life.
 
-The content do not defer much as compared to a biography, but defers in terms of being subjective - in a sense that since they are written by the subject, the story written _may be_ skewed towards their biasness.
+The content does not defer much as compared to a biography, but defers in terms of being subjective - in a sense that since they were written by the subject, the story _may be_ skewed towards their biasness.
 
 Examples:
 
@@ -39,9 +39,9 @@ Examples:
 
 ## Memoirs
 
-TLDR: A collection of memories writte by the person themselves.
+TLDR: A collection of memories written by the person themselves.
 
-Similarly to an autobiography, a memoir is a story of the person's life written by the person themselves. The differences is that a memoir focuses on reflection and establishing an emotional connection, rather than simply presenting the facts around their life. The author uses their personal knowledge to tell an intimate and emotional story about the private or public happenings in their life. The topic is intentionally focused and does not include biographical or chronological aspects of the author’s life unless they are meaningful and relevant to the story.
+Similarly to an autobiography, a memoir is a story of the person's life written by the person themselves. The difference is that a memoir focuses on reflection and establishing an emotional connection, rather than simply presenting the facts around their life. The author uses their personal knowledge to tell an intimate and emotional story about the private or public happenings in their life. The topic is intentionally focused and does not include biographical or chronological aspects of the author’s life unless they are meaningful and relevant to the story.
 
 Examples:
 
